@@ -1,6 +1,6 @@
 # cscPracticum
 
-You can find my implementation of the Randomize In Place Algorithm in the src main. 
+You can find my implementation of the Randomize In Place Algorithm in the src/Main.java
 
 Below shows a sample output of one run of my implementation. 
 <img width="1435" alt="sampleOutput" src="https://github.com/StefYaegel/cscPracticum/assets/107500032/439d6867-757c-45b2-ba03-1a92212b1f0d">
